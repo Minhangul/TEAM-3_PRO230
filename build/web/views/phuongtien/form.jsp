@@ -13,7 +13,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title><%= isEdit ? "Sửa phương tiện" : "Thêm phương tiện" %></title>
+    <title><%= isEdit ? "Sửa phương tiện" : "con caca" %></title>
 
     <style>
         body {
